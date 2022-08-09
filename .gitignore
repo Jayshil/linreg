@@ -130,3 +130,7 @@ dmypy.json
 
 /Data/juliet/
 /Data/roll_angle_decorrelated_photometry.dat
+p2.ipynb
+Data/roll_angle_decorrelated_photometry_55.dat
+*.fits
+*.DS_Store
